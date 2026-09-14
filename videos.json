@@ -2,33 +2,42 @@
   {
     "id": 1,
     "title": "Dwarika No Naath Gujarati Song | Laalo | Jaysinh Gadhavi | Smmit Jay | In Cinemas September 2025",
-    "titleGu": "",
-    "artist": "",
-    "category": "",
-    "genre": "",
+    "titleGu": "દ્વારિકા નો નાથ",
+    "artist": "Jaysinh Gadhavi",
+    "category": "Traditional",
+    "genre": "Devotional",
     "album": "",
-    "movie": "",
-    "starcast": [],
-    "tags": [],
+    "movie": "Laalo –  શ્રી કૃષ્ણ સદા સહાયતે",
+    "starcast": [
+      "Reeva Rachh",
+      "Shruhad Goswami",
+      "Karan Joshi"
+    ],
+    "tags": [ 
+      "bhakti",
+      "krishna"
+    ],
     "videoId": "4CMFhc8N6gk",
     "dateAdded": "2026-09-14",
     "featured": false,
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": 2,
     "title": "Ranchhod Rangila | Sabhiben Ahir, @RAJESH_AHIR | Song Of Faith | New Gujrati Song 2023",
-    "titleGu": "",
-    "artist": "",
-    "category": "",
-    "genre": "",
-    "album": "",
+    "titleGu": "Ranchhod Rangila ",
+    "artist": "Rajesh Ahir & Sabhiben Ahir",
+    "category": "Traditional",
+    "genre": "Devotional",
+    "album": "Song Of Faith",
     "movie": "",
     "starcast": [],
-    "tags": [],
+    "tags": [
+      "holi"
+    ],
     "videoId": "-6oAZwTGD2c",
     "dateAdded": "2026-09-14",
     "featured": false,
-    "needsReview": true
+    "needsReview": false
   }
 ]
